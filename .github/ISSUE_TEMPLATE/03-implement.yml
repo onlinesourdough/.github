@@ -1,0 +1,35 @@
+name: Implement
+description: Capture work that is ready to be scoped for implementation.
+labels:
+  - implement
+projects:
+  - onlinesourdough/5
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue will be added to the **All issues** project in **Backlog**. Move it to **Ready** once scope and acceptance criteria are clear.
+
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: Describe the user or system outcome, not only the proposed solution.
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope and constraints
+      description: Note what is in scope, what is out of scope, and any important constraints.
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: List the observable conditions that make the work complete.
+      placeholder: |
+        - [ ] ...
+        - [ ] ...
+

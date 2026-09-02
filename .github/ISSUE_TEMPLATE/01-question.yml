@@ -1,0 +1,33 @@
+name: Research / question
+description: Capture something that needs research, clarification, or a decision.
+labels:
+  - question
+projects:
+  - onlinesourdough/5
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue will be added to the **All issues** project in **Backlog**.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: What needs to be answered?
+      description: State the question or decision as precisely as you can.
+      placeholder: What are we trying to understand or decide?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and evidence
+      description: Add relevant links, constraints, prior attempts, or assumptions.
+
+  - type: textarea
+    id: useful-answer
+    attributes:
+      label: What would a useful answer contain?
+      description: Describe the evidence or recommendation needed before this can move to Ready.
+

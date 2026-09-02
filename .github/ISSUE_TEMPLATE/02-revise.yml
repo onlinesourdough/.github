@@ -1,0 +1,32 @@
+name: Revise / strengthen
+description: Capture work that needs revision or stronger evidence before implementation.
+labels:
+  - revise
+projects:
+  - onlinesourdough/5
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue will be added to the **All issues** project in **Backlog**.
+
+  - type: textarea
+    id: current-state
+    attributes:
+      label: What needs revision?
+      description: Describe the current state and why it is not ready yet.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or constraints
+      description: Add links, examples, feedback, or constraints that should guide the revision.
+
+  - type: textarea
+    id: ready-when
+    attributes:
+      label: Ready when
+      description: State what must be true before this can move to Ready.
+

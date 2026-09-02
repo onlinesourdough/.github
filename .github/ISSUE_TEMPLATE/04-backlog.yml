@@ -1,0 +1,24 @@
+name: Backlog item
+description: Capture an item before deciding whether it needs research, revision, or implementation.
+projects:
+  - onlinesourdough/5
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue will be added to the **All issues** project in **Backlog** without a workflow label.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: What should we remember?
+      description: Capture the idea, problem, opportunity, or follow-up.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Add links, constraints, examples, or any other useful background.
+
