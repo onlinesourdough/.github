@@ -1,4 +1,4 @@
-![onlinesourdough](https://raw.githubusercontent.com/onlinesourdough/.github/main/profile/assets/onlinesourdough-banner.png)
+![onlinesourdough](https://raw.githubusercontent.com/onlinesourdough/.github/355c67bcdd242880d00fb9fb07e92fa93cb53555/profile/assets/onlinesourdough-banner.png)
 
 # onlinesourdough
 
