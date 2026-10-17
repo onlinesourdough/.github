@@ -10,7 +10,7 @@ also maintained in the website repository's `public/assets/` directory.
 
 - `banner.html`: editable banner source using the existing mark and brand colours.
 
-Colours match the website: cream `#f8f2e8` and brown `#2b1b12`.
+The GitHub banner background matches the onlinesourdough tile in Gustav’s LinkedIn banner R11: `#E8D9C3`, confirmed on 17 October 2026. Supporting text retains the website’s brown `#2b1b12`.
 The wordmark uses the website's Geist Pixel Square font; supporting text uses
 Geist Sans. The local fonts retain their SIL Open Font License in
 `fonts/LICENSE.txt`.
