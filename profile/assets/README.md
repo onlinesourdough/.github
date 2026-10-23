@@ -16,7 +16,7 @@ Geist Sans. The local fonts retain their SIL Open Font License in
 `fonts/LICENSE.txt`.
 
 Use the common icon for plugins. Ordinary repository READMEs start with their
-title and purpose, without decorative banners or repo-specific icons. AIOS
+title and purpose, without decorative banners or repo-specific icons. The Onlinesourdough Method
 retains a banner using the same source mark and colours. Product screenshots,
 useful diagrams and original third-party attribution remain with their owners.
 
