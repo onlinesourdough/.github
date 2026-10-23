@@ -11,13 +11,13 @@ work, including useful ways to work with AI. Created by
 The focus is learning and applying: guides, reusable frameworks, courses and
 workshops that help you develop skills and improve how you work.
 
-[Explore onlinesourdough](https://onlinesourdough.com) · [Explore The Onlinesourdough Method](https://github.com/onlinesourdough/AIOS-Plugin)
+[Explore onlinesourdough](https://onlinesourdough.com) · [Explore The Onlinesourdough Method](https://github.com/onlinesourdough/OSM-plugin)
 
 ## Methods and resources
 
 | Repository | What it helps you do |
 | --- | --- |
-| [The Onlinesourdough Method](https://github.com/onlinesourdough/AIOS-Plugin) | Bring context and reusable methods for planning, building, reviewing and learning into your AI app |
+| [The Onlinesourdough Method](https://github.com/onlinesourdough/OSM-plugin) | Bring context and reusable methods for planning, building, reviewing and learning into your AI app |
 | [Project Template](https://github.com/onlinesourdough/Agentic-Project-template) | Start an independent project with clear instructions and documentation |
 | [System Template](https://github.com/onlinesourdough/Agentic-System-Template) | Define a specialist system you can use and maintain over time |
 | [Agent Work Review](https://github.com/onlinesourdough/Agent-Work-Review) | Reflect on how you work with agents using local history |
