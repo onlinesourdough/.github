@@ -1,3 +1,5 @@
+[![onlinesourdough](assets/onlinesourdough-banner.svg)](https://onlinesourdough.com)
+
 # onlinesourdough
 
 Guides, methods and tools for building a data and context foundation AI can use.
