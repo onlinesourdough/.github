@@ -2,7 +2,7 @@
 
 # onlinesourdough
 
-Guides, methods and tools for building a data and context foundation AI can use.
+Build what your business needs with AI. Try it on a real task, using guides, methods and tools to organise what it needs to know about your business.
 
 Created by [Gustav Anderson](https://gustavonline.com). The library grows from
 what I learn through my own work and working with clients.
